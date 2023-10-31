@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Conducted a Security Audit] (https://github.com/ARosario13/Conducted-a-Security-Audit)
-<h2>Certifications</h2>
+  - [Conducted a Security Audit](https://github.com/ARosario13/Conducted-a-Security-Audit)
 
 - <b>Google Cybersecurity Professional (In Progress)</b>
 
